@@ -1,2 +1,4 @@
 # Instacart Python Project
-Python Instacart Dataset
+This was a data analytics project in python as part of the CareerFoundry Data Analytics Program.
+
+## Objective
