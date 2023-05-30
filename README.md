@@ -1,2 +1,2 @@
-# Instacart
+# Instacart Python Project
 Python Instacart Dataset
